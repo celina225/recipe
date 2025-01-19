@@ -10,7 +10,7 @@ This sample showcases:
 
 ## Screenshots
 
-<img src="screenshots/screenshots.png"/>
+<img src="screenshots/jetsnack.png"/>
 
 ### Status: 🚧 In progress 🚧
 
