@@ -12,6 +12,10 @@ This sample showcases:
 
 
 
+
+<img src="screenshots/color_system.png"/>
+
+
 ### Status: 🚧 In progress 🚧
 
 Jetsnack is still under development and some screens are not yet implemented.
