@@ -59,7 +59,7 @@ private val tastyTreats = SnackCollection(
 
 private val popular = SnackCollection(
     id = Random.nextLong(),
-    name = "Popular on Jetsnack",
+    name = "Popular on Celina's Recipe",
     snacks = snacks.subList(14, 19)
 )
 
@@ -75,7 +75,7 @@ private val newlyAdded = popular.copy(
 
 private val exclusive = tastyTreats.copy(
     id = Random.nextLong(),
-    name = "Only on Jetsnack"
+    name = "Only on Celina's Recipe"
 )
 
 private val also = tastyTreats.copy(
