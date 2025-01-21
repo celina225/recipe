@@ -72,7 +72,7 @@ fun DestinationBar(modifier: Modifier = Modifier) {
                     title = {
                         Row {
                             Text(
-                                text = "Celina's marvelous recipe",
+                                text = "Celina's recipes",
                                 style = MaterialTheme.typography.titleMedium,
                                 color = JetsnackTheme.colors.textSecondary,
                                 textAlign = TextAlign.Center,
