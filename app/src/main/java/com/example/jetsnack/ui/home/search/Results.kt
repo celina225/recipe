@@ -150,7 +150,8 @@ private fun SearchResult(
                 }
         )
         Text(
-            text = formatPrice(snack.price),
+            //text = formatPrice(snack.price),
+            text = "",
             style = MaterialTheme.typography.titleMedium,
             color = JetsnackTheme.colors.textPrimary,
             modifier = Modifier.constrainAs(price) {
