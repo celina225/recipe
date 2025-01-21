@@ -11,7 +11,7 @@ This sample showcases:
 ## Screenshots
 
 <img src="screenshots/screenshots.png"/>
-<img src="screenshots/screenshots2.png"/>
+<img src="screenshots/screenshots2.PNG"/>
 <img src="screenshots/screenshots3.png"/>
 <img src="screenshots/screenshots4.png"/>
 
