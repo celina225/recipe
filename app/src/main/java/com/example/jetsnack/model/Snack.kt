@@ -57,7 +57,20 @@ val snacks = listOf(
                 "4 cups (460g) powdered sugar\n" +
                 "1 1/2 tsp vanilla extract\n" +
                 "2–3 tbsp (30-45ml) water or milk\n" +
-                "pinch of salt",
+                "pinch of salt\n" +
+                "Instructions:\n" +
+                "1. Preheat oven to 350°F (176°C) and prepare a cupcake pan with liners.\n" +
+                "2. Add the flour, sugar, baking powder and salt to a large mixer bowl and combine. Set aside.\n" +
+                "3. Add the milk, vegetable oil, vanilla extract and eggs to a medium sized bowl and combine.\n" +
+                "4. Add the wet ingredients to the dry ingredients and beat until well combined.\n" +
+                "5. Slowly add the water to the batter and mix on low speed until well combined. Scrape down the sides of the bowl as needed to make sure everything is well combined. Please note that the batter will be very thin.\n" +
+                "6. Fill the cupcake liners about half way and bake for 15-17 minutes, or until a toothpick comes out with a few moist crumbs.\n" +
+                "7. Remove the cupcakes from oven and allow to cool for 2 minutes, then remove to a cooling rack to finish cooling.\n" +
+                "8. To make the frosting, beat the butter in a large mixer bowl until smooth.\n" +
+                "9. Add 2 cups of powdered sugar and mix until smooth.\n" +
+                "10. Add the vanilla extract and 1 tablespoon of water or milk and mix until smooth.\n" +
+                "11. Add remaining powdered sugar and mix until smooth.\n" +
+                "12. Add remaining water or milk, as needed, and salt and mix until smooth.",
         imageRes = R.drawable.cupcake,
         price = 299
     ),
