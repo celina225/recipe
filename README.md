@@ -12,8 +12,8 @@ This sample showcases:
 
 <img src="screenshots/screenshots.png"/>
 <img src="screenshots/screenshots2.PNG"/>
-<img src="screenshots/screenshots3.png"/>
-<img src="screenshots/screenshots4.png"/>
+<img src="screenshots/screenshots3.PNG"/>
+<img src="screenshots/screenshots4.PNG"/>
 
 ### Status: 🚧 In progress 🚧
 
