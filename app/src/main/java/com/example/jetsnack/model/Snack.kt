@@ -42,7 +42,22 @@ val snacks = listOf(
         id = 1L,
         name = "Cupcake",
         tagline = "Recipe",
-        detail = "Cake flour is much lighter than all-purpose flour and helps to produce the softest, lightest cakes and cupcakes you’ll ever eat. It’s sold next to the regular flour in the baking aisle and I promise that you’ll use up the entire box in no time after you taste these! Softened butter: A base of creamed butter and sugar. Egg whites: While egg yolks are rich in fat and moisture, they can weigh down your baked goods.",
+        detail = "VANILLA CUPCAKES\n" +
+                "2 1/2 cups (325g) all purpose flour\n" +
+                "2 cups (414g) sugar\n" +
+                "3 tsp baking powder (NOT baking soda)\n" +
+                "1 tsp salt\n" +
+                "1 cup (240ml) milk\n" +
+                "1/2 cup (120ml) vegetable oil\n" +
+                "1 tbsp vanilla extract\n" +
+                "2 large eggs\n" +
+                "1 cup (240ml) water*\n" +
+                "VANILLA FROSTING\n" +
+                "1 cup (224g) unsalted butter, room temperature\n" +
+                "4 cups (460g) powdered sugar\n" +
+                "1 1/2 tsp vanilla extract\n" +
+                "2–3 tbsp (30-45ml) water or milk\n" +
+                "pinch of salt",
         imageRes = R.drawable.cupcake,
         price = 299
     ),
