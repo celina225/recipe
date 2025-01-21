@@ -1,6 +1,6 @@
-# Jetsnack Recipe sample
+# Celina's recipe
 
-Jetsnack is a sample snack recipe ordering app built with Kotlin.
+Celina's recipe is a sample snack recipe ordering app built with Kotlin.
 
 This sample showcases:
 
@@ -10,11 +10,10 @@ This sample showcases:
 
 ## Screenshots
 
-
-
-
-<img src="screenshots/color_system.png"/>
-
+<img src="screenshots/screenshots.png"/>
+<img src="screenshots/screenshots2.png"/>
+<img src="screenshots/screenshots3.png"/>
+<img src="screenshots/screenshots4.png"/>
 
 ### Status: 🚧 In progress 🚧
 
